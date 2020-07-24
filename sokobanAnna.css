@@ -1,0 +1,47 @@
+#timer {
+
+            width: 10%;
+            text-align: center;
+            margin-left: 71%;
+            font-size: 1.5em;
+            margin-top: 50%;
+            font-family: Arial;
+}
+
+
+#startGame  {
+    margin: 10% 40%;
+    width: 20%;
+    text-align: center;
+    font-size: 4em;
+}
+
+#loseButton {
+            margin-left: 70%;
+            margin-top: 10%;
+            width: 10%;
+            text-align: center;
+            font-size: 2em;
+}
+
+#winStatement {
+        font-size: 4em;
+        padding-top: 150px;
+
+}
+
+
+
+#winContainer {
+            font-size: 4em;
+            text-align: center;
+            padding-top: 150px;
+
+}
+
+#level {
+        font-size: 3em;
+        margin-left: 70%;
+        margin-top: 5%;
+        font-family: Arial;
+}
